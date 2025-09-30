@@ -60,10 +60,14 @@ gradio
 
 ## 🖼️ Demo UI
 
+![home page](https://github.com/Tanmay1112004/pirate-vs-normal-chatbot/blob/main/meta-Llama-3.1-8B-Instruct/screenshots/Screenshot%202025-09-30%20133205.png)
+
 | Normal Mode 🤖                    | Pirate Mode 🏴‍☠️                 |
 | --------------------------------- | --------------------------------- |
-| ![Normal Chat](assets/normal.png) | ![Pirate Chat](assets/pirate.png) |
-| ![Normal chat]()                  | ![Pirate Chat]()
+![Normal Chat](https://github.com/Tanmay1112004/pirate-vs-normal-chatbot/blob/main/meta-Llama-3.1-8B-Instruct/screenshots/Screenshot%202025-09-30%20133459.png) 
+![Normal chat](https://github.com/Tanmay1112004/pirate-vs-normal-chatbot/blob/main/meta-Llama-3.1-8B-Instruct/screenshots/Screenshot%202025-09-30%20133534.png)
+![Pirate Chat](https://github.com/Tanmay1112004/pirate-vs-normal-chatbot/blob/main/meta-Llama-3.1-8B-Instruct/screenshots/Screenshot%202025-09-30%20133839.png)
+| ![Pirate Chat](https://github.com/Tanmay1112004/pirate-vs-normal-chatbot/blob/main/meta-Llama-3.1-8B-Instruct/screenshots/Screenshot%202025-09-30%20134025.png)
 
 ---
 
@@ -85,9 +89,3 @@ It’s not just fun (Pirate Mode ⚓), but also **shows real AI engineering skil
 Pull requests are welcome. For major changes, please open an issue first.
 
 ---
-
-## 📜 License
-
-[MIT](LICENSE)
-
-```
