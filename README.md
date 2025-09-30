@@ -1,2 +1,93 @@
-# pirate-vs-normal-chatbot
-🚀 A fun yet powerful chatbot built with Meta LLaMA 3.1 and Gradio.  Toggle between Normal 🤖 mode for professional answers and Pirate 🏴‍☠️ mode for playful, role-based responses.  Runs smoothly on Google Colab with Hugging Face integration.
+# 🏴‍☠️ Pirate vs Normal Chatbot
+
+An interactive chatbot powered by **Meta LLaMA 3.1** and **Gradio UI**.  
+Choose between:
+
+- **Normal Mode 🤖** → Professional AI assistant mode.  
+- **Pirate Mode 🏴‍☠️** → Fun roleplay chatbot that answers in pirate-speak.  
+
+Perfect blend of **AI + creativity**, showcasing modern **LLM apps with Hugging Face & Gradio**.  
+
+---
+
+## 🚀 Features
+✅ Switch between Normal 🤖 and Pirate 🏴‍☠️ chatbot modes  
+✅ Beautiful, user-friendly **Gradio UI**  
+✅ **Streaming responses** → See text appear live  
+✅ Works on **Google Colab** (lightweight, GPU-friendly)  
+✅ Hugging Face Hub authentication ready  
+
+---
+
+## 🛠️ Tech Stack
+- [Transformers](https://huggingface.co/docs/transformers/index) (Meta-LLaMA 3.1 model)  
+- [Gradio](https://www.gradio.app/) (frontend interface)  
+- [PyTorch](https://pytorch.org/)  
+- Google Colab for easy deployment  
+
+---
+
+## 📂 Project Setup
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/Tanmay1112004/pirate-vs-normal-chatbot.git
+cd pirate-vs-normal-chatbot
+````
+
+### 2️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+**requirements.txt**
+
+```
+transformers
+accelerate
+torch
+gradio
+```
+
+### 3️⃣ Run in Google Colab
+
+* Open `notebook.ipynb` in Colab
+* Add your **Hugging Face Token**
+* Run all cells 🚀
+
+---
+
+## 🖼️ Demo UI
+
+| Normal Mode 🤖                    | Pirate Mode 🏴‍☠️                 |
+| --------------------------------- | --------------------------------- |
+| ![Normal Chat](assets/normal.png) | ![Pirate Chat](assets/pirate.png) |
+| ![Normal chat]()                  | ![Pirate Chat]()
+
+---
+
+## 🎯 Use Case for Recruiters
+
+This project demonstrates:
+
+* **LLM integration** with Hugging Face models
+* **Frontend development** with Gradio
+* **Prompt engineering** for role-based AI personas
+* **Colab deployment** for easy sharing
+
+It’s not just fun (Pirate Mode ⚓), but also **shows real AI engineering skills** useful for production AI applications.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
+
+---
+
+## 📜 License
+
+[MIT](LICENSE)
+
+```
