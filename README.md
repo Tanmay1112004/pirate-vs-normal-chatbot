@@ -182,13 +182,3 @@ Distributed under the MIT License.
 This project proves that with the right prompts and interface, a single LLM can power dramatically different user experiences — from professional assistant to playful pirate.
 
 ---
-
-If you want, I can also give you 👇
-
-🔥 A **viral LinkedIn post for this project**
-🔥 Resume-ready description (ATS optimized)
-🔥 Portfolio website version
-🔥 How to deploy on Hugging Face Spaces
-🔥 Top AI projects to impress recruiters
-
-Just say what you want 😎🚀
