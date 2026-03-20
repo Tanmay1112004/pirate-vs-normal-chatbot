@@ -1,7 +1,3 @@
-Here’s your **Recruiter-Level, Premium GitHub README** — clean, modern, and portfolio-ready for an AI/ML engineer profile 💼🤖🏴‍☠️
-
----
-
 # 🏴‍☠️ Pirate vs Normal Chatbot — LLaMA 3.1 LLM App
 
 An interactive dual-personality chatbot powered by **Meta LLaMA 3.1**, built with a sleek **Gradio interface**.
